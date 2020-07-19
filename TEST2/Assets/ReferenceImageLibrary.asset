@@ -14,4 +14,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_GuidLow: 4919685709512003825
   m_GuidHigh: 12832506047860255392
-  m_Images: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5514462276489206473
+      m_GuidHigh: 5161328106255915433
+    m_SerializedTextureGuid:
+      m_GuidLow: 15115456089392875169
+      m_GuidHigh: 4286657839658358760
+    m_Size: {x: 0.7, y: 0.43713573}
+    m_SpecifySize: 1
+    m_Name: marker1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4642777473080753572
+      m_GuidHigh: 15040816441376148879
+    m_SerializedTextureGuid:
+      m_GuidLow: 15088357402857402504
+      m_GuidHigh: 12769726775963205640
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: marker2
+    m_Texture: {fileID: 0}
